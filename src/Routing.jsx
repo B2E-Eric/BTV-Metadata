@@ -5,7 +5,10 @@ export default function Routing() {
   return (
     <Router>
       <Routes>
-        <Route path="/museum/:type/:numbering" element={<Museum/>}/>
+        <Route path="/museum">
+          <Route path=":type" element={<Museum/>} />
+          <Route path=":type/:numbering" element={<Museum/>} />
+        </Route>
       </Routes>
     </Router>
   );
