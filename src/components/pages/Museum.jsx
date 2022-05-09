@@ -10,11 +10,10 @@ export default function Museum() {
   return (
     <div className={styles.frame}>
       <div className={styles.card}>
-        Asset type {type ?? "invalid"} n° {numbering ?? "none"}
+        {type ?? "invalid"} {numbering && 'n°'}{numbering ?? ""}
         <br />
         <img alt="" src={"/museum/" + type + ".png"} />
         <h3>{asset.name}</h3>
-        {asset.description}
       </div>
     </div>
   );
