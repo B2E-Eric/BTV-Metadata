@@ -1,0 +1,15 @@
+.frame {
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    min-width: 30px;
+    min-height: 30px;
+    background-color: yellow;
+}
