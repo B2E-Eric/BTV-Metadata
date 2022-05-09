@@ -109,36 +109,18 @@ export const assets = [
     img: "Aetherlith"
   },
   {
-    address: "0xBe1bE4B6eAC09203C7c901d6413CeCc65A378BA0",
-    creation: 1487779771,
-    type: 11,
-    name: "Tactician pack",
-    description: "description vide",
-    category: "consumable",
-    img: "Tactician pack"
-  },
-  {
     address: "0x0fE759fdcAe4bAa50b09AC367B65e7283F42eb78",
     creation: 1489668465,
-    type: 12,
+    type: 11,
     name: "Green Sun",
     description: "description vide",
     category: "event",
     img: "Green Sun"
   },
   {
-    address: "0x780ef87E43Be713EA44E1C9EafC22C6baC19e0E5",
-    creation: 1489668598,
-    type: 13,
-    name: "Starter pack",
-    description: "description vide",
-    category: "consumable",
-    img: "Starter pack"
-  },
-  {
     address: "0x237E8a85D45f6Af8aAb8cA26fB801Ff4C578A503",
     creation: 1515609353,
-    type: 14,
+    type: 12,
     name: "Junkalibur",
     description: "description vide",
     category: "skin",
@@ -147,7 +129,7 @@ export const assets = [
   {
     address: "0xEEf23786c06b29F99A4Fd4A60A7e7e8F41214877",
     creation: 1515609415,
-    type: 15,
+    type: 13,
     name: "Wall Of Steam",
     description: "description vide",
     category: "skin",
@@ -156,7 +138,7 @@ export const assets = [
   {
     address: "0x3055a809d574F85acD1fe3c693f01423eF94212b",
     creation: 1515609467,
-    type: 16,
+    type: 14,
     name: "Molten Core Fusion",
     description: "description vide",
     category: "skin",
@@ -165,21 +147,21 @@ export const assets = [
   {
     address: "0xa57414A5B6C2f98e825acc3944cC1FEfcD85699F",
     creation: 1515609528,
-    type: 17,
+    type: 15,
     name: "Augustina Steinbach",
     description:
       "Admiral Augustina Steinbach is renowned throughout House Trexar for her strategic cunning, steely resolve, loyalty to her troops, and her impeccable taste in cigars.",
-    category: "avatar",
+      category: "avatar",
     img: "Augustina Steinbach",
     subCategory: 'trexar'
   },
   {
     address: "0x12D90E6c0A30590eca4B05abe16f16e604cFD12b",
     creation: 1515609572,
-    type: 18,
+    type: 16,
     name: "Ogunu",
     description:
-      "Ogunu comes from a diplomatic family of metal and prestige. His fierce conquests are only outshone by his craftsmanship.",
+    "Ogunu comes from a diplomatic family of metal and prestige. His fierce conquests are only outshone by his craftsmanship.",
     category: "avatar",
     img: "Ogunu",
     subCategory: 'vunhuma'
@@ -187,10 +169,10 @@ export const assets = [
   {
     address: "0xae2907585e27bAE76b916f59293deAd353fd2581",
     creation: 1515609762,
-    type: 19,
+    type: 17,
     name: "Itztli",
     description:
-      "Itztli walks the line between zealot and sadist. He fights with a righteous fury that has earned him due amounts of fear and respect. Nothing brings him more pleasure than conquering his enemies as tribute to his gods.",
+    "Itztli walks the line between zealot and sadist. He fights with a righteous fury that has earned him due amounts of fear and respect. Nothing brings him more pleasure than conquering his enemies as tribute to his gods.",
     category: "avatar",
     img: "Itztli",
     subCategory: 'xoletsa'
@@ -198,10 +180,10 @@ export const assets = [
   {
     address: "0x81D51f3f548f4f323Ea6B51341192dC2d9683b18",
     creation: 1515609773,
-    type: 20,
+    type: 18,
     name: "Geser Khagan",
     description:
-      "Geser is a fierce champion for his people. Seen as fearless with a thirst for battle, soldiers like him are the reason for House Visgalt’s reputation as conquerors among the stars.",
+    "Geser is a fierce champion for his people. Seen as fearless with a thirst for battle, soldiers like him are the reason for House Visgalt’s reputation as conquerors among the stars.",
     category: "avatar",
     img: "Geser Khagan",
     subCategory: 'visgalt'
@@ -209,10 +191,10 @@ export const assets = [
   {
     address: "0x8f06B5D8b9cce6F398C95E55935E6f00EE61F4EE",
     creation: 1515609807,
-    type: 21,
+    type: 19,
     name: "Itelsut",
     description:
-      "Itelsut enjoys the thrill of battle as much as the musings of philosophers. Raised within a proud and noble house, she received education and military training in equal measure. Don’t let her even-temperedness and quick wit fool you.",
+    "Itelsut enjoys the thrill of battle as much as the musings of philosophers. Raised within a proud and noble house, she received education and military training in equal measure. Don’t let her even-temperedness and quick wit fool you.",
     category: "avatar",
     img: "Itelsut",
     subCategory: 'hignos'
@@ -220,7 +202,7 @@ export const assets = [
   {
     address: "0x9E102397C90a212644313A9121c22c4EFF61A3d4",
     creation: 1518601701,
-    type: 22,
+    type: 20,
     name: "Enamored Advisor",
     description: "",
     category: "avatar",
@@ -229,7 +211,7 @@ export const assets = [
   {
     address: "0x3d6fe205a85808fE6a736F45aF54425a44399009",
     creation: 1538037252,
-    type: 23,
+    type: 21,
     name: "Ready Ether One - BGS2018",
     description: "description vide",
     category: "skin",
@@ -238,7 +220,7 @@ export const assets = [
   {
     address: "0x386c923D4ba086042BbAE407aC163c5a0ceE8a28",
     creation: 1538642995,
-    type: 24,
+    type: 22,
     name: "Hellspawn",
     description: "",
     category: "skin",
@@ -247,7 +229,7 @@ export const assets = [
   {
     address: "0xC30900B96E16A35840Ed52166b015C705F8746F8",
     creation: 1542798178,
-    type: 25,
+    type: 23,
     name: "Emerald Fusion",
     description: "",
     category: "skin",
@@ -256,10 +238,10 @@ export const assets = [
   {
     address: "0x1604450b3fB8B87Eb7C22fc8e7288Fc4b7a019Bf",
     creation: 1542984343,
-    type: 26,
+    type: 24,
     name: "Ifuna Sharr",
     description:
-      "A spy and saboteur in service of the Trexar barony, Ilverna has a sizable bounty on her head in Visgalt, Vunhuma, and Hignös territories. Reassigned to Trexar operations in the Void, she brings her many years of spycraft to ensuring her house’s dominance in this new frontier.",
+    "A spy and saboteur in service of the Trexar barony, Ilverna has a sizable bounty on her head in Visgalt, Vunhuma, and Hignös territories. Reassigned to Trexar operations in the Void, she brings her many years of spycraft to ensuring her house’s dominance in this new frontier.",
     category: "avatar",
     img: "Ifuna Sharr",
     subCategory: 'trexar'
@@ -267,10 +249,10 @@ export const assets = [
   {
     address: "0x8fE781aD4707178D600890dAA0d4DE1c9831DCd7",
     creation: 1542985041,
-    type: 27,
+    type: 25,
     name: "Yugahn Zeligg",
     description:
-      "With the birth of Archbaron Visgalt’s monstrous sons, self-mutilation became a mark of loyalty among the House’s servants. Zeligg was among the first to volunteer for such “cosmetic” surgery. With his fanatic devotion to his house coupled with his new, death-like visage, he has gained a fearsome reputation on the battlefield.",
+    "With the birth of Archbaron Visgalt’s monstrous sons, self-mutilation became a mark of loyalty among the House’s servants. Zeligg was among the first to volunteer for such “cosmetic” surgery. With his fanatic devotion to his house coupled with his new, death-like visage, he has gained a fearsome reputation on the battlefield.",
     category: "avatar",
     img: "Yugahn Zeligg",
     subCategory: 'visgalt'
@@ -278,7 +260,7 @@ export const assets = [
   {
     address: "0xFD7fC9Bc7B600002a7eF8D511ab4B935e9De36A1",
     creation: 1542986094,
-    type: 28,
+    type: 26,
     name: "Bloody-K2",
     description: "",
     category: "skin",
@@ -287,7 +269,7 @@ export const assets = [
   {
     address: "0xC7f0e87b3603d401Fd206D3DF84B4A686986395a",
     creation: 1542986776,
-    type: 29,
+    type: 27,
     name: "Cyanide Karkass",
     description: "",
     category: "skin",
@@ -296,10 +278,10 @@ export const assets = [
   {
     address: "0x07EFdb396158687BED7805702C71BDC2Dca15758",
     creation: 1542986810,
-    type: 30,
+    type: 28,
     name: "Wataida",
     description:
-      "Wataida works tirelessly toward balance between her society and its surrounding nature. By designing transportation and habitats that resemble nature and work with the forces of the planet, she hopes to leave lasting impact. The near overflow of ambrosium has allowed her to construct the most efficient and harmonious infrastructure of all the houses.",
+    "Wataida works tirelessly toward balance between her society and its surrounding nature. By designing transportation and habitats that resemble nature and work with the forces of the planet, she hopes to leave lasting impact. The near overflow of ambrosium has allowed her to construct the most efficient and harmonious infrastructure of all the houses.",
     category: "avatar",
     img: "Wataida",
     subCategory: 'vunhuma'
@@ -307,10 +289,10 @@ export const assets = [
   {
     address: "0x980F27180A39C10933BaA3Ee90D02508E9E1Bcd5",
     creation: 1542986810,
-    type: 31,
+    type: 29,
     name: "Setonn",
     description:
-      "With oceans surrounding everything, understanding how to exploit this abundant resource fell to the desk of Setonn. Being learned in marine biology and molecular engineering, he put his personal stamp on the surrounding environment. By creating a menagerie of machine/animal hybrids, Setonn ensured that the world itself would work toward the Baron’s wishes.",
+    "With oceans surrounding everything, understanding how to exploit this abundant resource fell to the desk of Setonn. Being learned in marine biology and molecular engineering, he put his personal stamp on the surrounding environment. By creating a menagerie of machine/animal hybrids, Setonn ensured that the world itself would work toward the Baron’s wishes.",
     category: "avatar",
     img: "Setonn",
     subCategory: 'hignos'
@@ -318,10 +300,10 @@ export const assets = [
   {
     address: "0x6cC8B96299DA4105AA5172D4124e21545056BC7b",
     creation: 1542987933,
-    type: 32,
+    type: 30,
     name: "Chuma",
     description:
-      "With most of the unmined Ambrosium located in the Void, the study of this mysterious realm fell to seers like Chuma. He used his mastery over the ancient machines to extract secrets from the darkest corners of the Void.",
+    "With most of the unmined Ambrosium located in the Void, the study of this mysterious realm fell to seers like Chuma. He used his mastery over the ancient machines to extract secrets from the darkest corners of the Void.",
     category: "avatar",
     img: "Chuma",
     subCategory: 'vunhuma'
@@ -329,7 +311,7 @@ export const assets = [
   {
     address: "0x513C6a41D745B432eDa445C2b40361b188EC583A",
     creation: 1542988594,
-    type: 33,
+    type: 31,
     name: "Just Blue",
     description: "",
     category: "skin",
@@ -338,10 +320,10 @@ export const assets = [
   {
     address: "0x2C0C0307a05aFAD047cE68a99AadEE5290711508",
     creation: 1542989633,
-    type: 34,
+    type: 32,
     name: "Ispa Nandeth",
     description:
-      "Ispa struggles through her existence, ever-devoted to bring hope to the desperate, mend the broken, and shield the tormented. Her pious zeal caught the eye of the Baroness who granted her the power to end the misery of others but did nothing to lessen her personal woe. Ever burdened, she perseveres with her divine undertaking in the hope that after all others are healed she can receive a final relief.",
+    "Ispa struggles through her existence, ever-devoted to bring hope to the desperate, mend the broken, and shield the tormented. Her pious zeal caught the eye of the Baroness who granted her the power to end the misery of others but did nothing to lessen her personal woe. Ever burdened, she perseveres with her divine undertaking in the hope that after all others are healed she can receive a final relief.",
     category: "avatar",
     img: "Ispa Nandeth",
     subCategory: 'xoletsa'
@@ -349,10 +331,10 @@ export const assets = [
   {
     address: "0xE5C039F6cA2227F8462FC8c1dd22e6383a855109",
     creation: 1542989633,
-    type: 35,
+    type: 33,
     name: "Solek Voidwalker",
     description:
-      "Solek was the first to earn the title of Voidwalker. Using House Hignös astral projection technology, he can explore the Void with minimal immediate danger. However, the experience results in extreme mental and physical fatigue and degeneration. The solution is constant cybernetic enhancements to the point where many question whether Solek is sentient or just following his programing.",
+    "Solek was the first to earn the title of Voidwalker. Using House Hignös astral projection technology, he can explore the Void with minimal immediate danger. However, the experience results in extreme mental and physical fatigue and degeneration. The solution is constant cybernetic enhancements to the point where many question whether Solek is sentient or just following his programing.",
     category: "avatar",
     img: "Solek Voidwalker",
     subCategory: 'hignos'
@@ -360,10 +342,10 @@ export const assets = [
   {
     address: "0xEAc179Db44Ecf1eE59888cE3BC0Db7C14885Dbad",
     creation: 1542991929,
-    type: 36,
+    type: 34,
     name: "Rakaaj Vorik",
     description:
-      "For a family to gain favor within House Visgalt, it must be willing to purge any members deemed too weak to carry out the Archbaron’s will. For this reason, Rakaaj’s family nearly had him ritually killed as a child, due to a deteriorating muscular condition which required him to have mechanical assistance to walk at an early age. As his family’s only child, though, he was granted a reprieve, so long as he could prove himself worthy to House Visgalt. Rakaaj found his calling as a fighter pilot, and out among the stars he is one of the most feared of House Visgalt’s troops, disability or no.",
+    "For a family to gain favor within House Visgalt, it must be willing to purge any members deemed too weak to carry out the Archbaron’s will. For this reason, Rakaaj’s family nearly had him ritually killed as a child, due to a deteriorating muscular condition which required him to have mechanical assistance to walk at an early age. As his family’s only child, though, he was granted a reprieve, so long as he could prove himself worthy to House Visgalt. Rakaaj found his calling as a fighter pilot, and out among the stars he is one of the most feared of House Visgalt’s troops, disability or no.",
     category: "avatar",
     img: "Rakaaj Vorik",
     subCategory: 'visgalt'
@@ -371,10 +353,10 @@ export const assets = [
   {
     address: "0xe01ECaADd031A333E4600B9C64108421ef37d4b7",
     creation: 1542992023,
-    type: 37,
+    type: 35,
     name: "Anesu Kutau",
     description:
-      "The title of Kutau is bestowed upon the only living person who communicates with the Baron of Vunhuma. For Anesu, this is a lifetime position of power and responsibility. She guides House Vunhuma as much as the Baron and its success and failure also lie with her. When her days are finished, she alone chooses her successor and then joins her predecessors within the consciousness of the Baron.",
+    "The title of Kutau is bestowed upon the only living person who communicates with the Baron of Vunhuma. For Anesu, this is a lifetime position of power and responsibility. She guides House Vunhuma as much as the Baron and its success and failure also lie with her. When her days are finished, she alone chooses her successor and then joins her predecessors within the consciousness of the Baron.",
     category: "avatar",
     img: "Anesu Kutau",
     subCategory: 'vunhuma'
@@ -382,10 +364,10 @@ export const assets = [
   {
     address: "0xA4E1B51bE128bD660306f30dD703AeD432e82e17",
     creation: 1542992126,
-    type: 38,
+    type: 36,
     name: "Nekhir Surmann",
     description:
-      "Nekhir should have died years ago. A highly decorated member of the Marauders, he became infected with an experimental virus crafted by House Hignös, causing his body began to slowly rot from the inside. He had little hope of survival, but was saved by a painful, experimental procedure performed by House Visgalt’s “Mad Doctor,” Elmin Kluvik, himself a Hignös defector. The virus has now created a symbiotic bond with Nekhir, who relishes in his new, horrific appearance.",
+    "Nekhir should have died years ago. A highly decorated member of the Marauders, he became infected with an experimental virus crafted by House Hignös, causing his body began to slowly rot from the inside. He had little hope of survival, but was saved by a painful, experimental procedure performed by House Visgalt’s “Mad Doctor,” Elmin Kluvik, himself a Hignös defector. The virus has now created a symbiotic bond with Nekhir, who relishes in his new, horrific appearance.",
     category: "avatar",
     img: "Nekhir Surmann",
     subCategory: 'visgalt'
@@ -393,10 +375,10 @@ export const assets = [
   {
     address: "0x880bA6C9B81A001BA1b06Cd1EF53a2684CE0b689",
     creation: 1542992200,
-    type: 39,
+    type: 37,
     name: "Nenetl Mago",
     description:
-      "Nenetl Mago fashions herself a librarian of all that is worthy to be studied and revered. Her insatiable curiosity and dedication fashioned her into the singular expert on all of House Xoletsa’s various deities, rituals, and magics. She is, however, generous with her knowledge and does not seek to withhold. This has led to the revival of some magics that even those in Xoletsian society consider unnatural.",
+    "Nenetl Mago fashions herself a librarian of all that is worthy to be studied and revered. Her insatiable curiosity and dedication fashioned her into the singular expert on all of House Xoletsa’s various deities, rituals, and magics. She is, however, generous with her knowledge and does not seek to withhold. This has led to the revival of some magics that even those in Xoletsian society consider unnatural.",
     category: "avatar",
     img: "Nenetl Mago",
     subCategory: 'xoletsa'
@@ -404,7 +386,7 @@ export const assets = [
   {
     address: "0x17A8c03ac953B0bf0454976cB4b37c11eFb90a1a",
     creation: 1542992274,
-    type: 40,
+    type: 38,
     name: "T'Vei",
     description:
       "T’Vei was the lead engineer for taking the Wall-K2 ship design and upgrading it to a mothership worthy of House Hignös. It was her idea to improve hull integrity allowing for the ramming of enemy ships. This enhancement permitted Hignös fighters to take down their enemies even if it was their final act.",
@@ -415,7 +397,7 @@ export const assets = [
   {
     address: "0x9BbC6b0FCe516692c2ED0C7b71d7acBEF8ca0b18",
     creation: 1542992388,
-    type: 41,
+    type: 39,
     name: "Bioplasmik Zel'Hactl",
     description: "",
     category: "skin",
@@ -424,7 +406,7 @@ export const assets = [
   {
     address: "0xFb5a51AE417E5753aEc5452Ef760915973F97C37",
     creation: 1542992407,
-    type: 42,
+    type: 40,
     name: "Dalton Brecht",
     description:
       "Dalton has been chief engineer of the Trexar fleets for more than a decade, and he sees the barony’s ships the same way he does his young children - they’re loud, constantly in need of attention, and every last one is precious to him.",
@@ -435,10 +417,10 @@ export const assets = [
   {
     address: "0x6D83D5514438520e4A50B2FE096eb7992011d0A2",
     creation: 1545149576,
-    type: 43,
+    type: 41,
     name: "Vesha",
     description:
-      "Vesha was born with a natural disdain for anyone not within House Hignös. This resentment was useful when he became the head of the Advanced Tactical Warfare Division. His designs are inspired by his feelings toward other houses and so his metallic assassins never meets a target more than once. His victims are treated to a shared final experience demonstrating the efficient killing power of House Hignös.",
+    "Vesha was born with a natural disdain for anyone not within House Hignös. This resentment was useful when he became the head of the Advanced Tactical Warfare Division. His designs are inspired by his feelings toward other houses and so his metallic assassins never meets a target more than once. His victims are treated to a shared final experience demonstrating the efficient killing power of House Hignös.",
     category: "avatar",
     img: "Vesha",
     subCategory: 'hignos'
@@ -446,21 +428,21 @@ export const assets = [
   {
     address: "0x19a71fE3b212aec360d9460f8EeD8385575aEa3a",
     creation: 1542987933,
-    type: 44,
+    type: 42,
     name: "Maomba The Unflinching",
     description:
       "",
-    category: "avatar",
-    img: "Maomba The Unflinching",
-    subCategory: 'vunhuma'
-  },
-  {
+      category: "avatar",
+      img: "Maomba The Unflinching",
+      subCategory: 'vunhuma'
+    },
+    {
     address: "0x3CbD83131e7d1d673a452C8257B0e832dD71F93C",
     creation: 1542984092,
-    type: 45,
+    type: 43,
     name: "Paria",
     description:
-      "",
+    "",
     category: "avatar",
     img: "Paria",
     subCategory: 'hignos'
@@ -468,20 +450,20 @@ export const assets = [
   {
     address: "0xF1D00E485e4A890Dba8C129f5364e2d2D1B07A1a",
     creation: 1542985657,
-    type: 46,
+    type: 44,
     name: "Fungus Lord",
     description:
-      "",
+    "",
     category: "skin",
     img: "Fungus Lord"
   },
   {
     address: "0xA14725891BFeF57122D1454Bae6AC9A4Dfc3258C",
     creation: 1542992274,
-    type: 47,
+    type: 45,
     name: "Ieshan Oltaca",
     description:
-      "",
+    "",
     category: "avatar",
     img: "Ieshan Oltaca",
     subCategory: 'xoletsa'
@@ -489,20 +471,20 @@ export const assets = [
   {
     address: "0x8A2a645d8F1Bc69dA92291b8d128e391a1Aa65e7",
     creation: 1545323376,
-    type: 48,
+    type: 46,
     name: "Iron Widow",
     description:
-      "",
+    "",
     category: "skin",
     img: "Iron Widow"
   },
   {
     address: "0x513B1d1FDcf9e72a69E2721A03688173B0b22121",
     creation: 1542992157,
-    type: 49,
+    type: 47,
     name: "Mharra Ezen",
     description:
-      "",
+    "",
     category: "avatar",
     img: "Mharra Ezen",
     subCategory: 'visgalt'
@@ -510,10 +492,10 @@ export const assets = [
   {
     address: "0x5ff96cDC1BaEA97744ebD9F24114927280102D4b",
     creation: 1542988656,
-    type: 50,
+    type: 48,
     name: "Dr. Arvid Styrke",
     description:
-      "",
+    "",
     category: "avatar",
     img: "Dr Arvid Styrke",
     subCategory: 'trexar'
@@ -521,12 +503,30 @@ export const assets = [
   {
     address: "0xcEb25Adf5B954153295efCA18931DAf3947DD472",
     creation: 1542984201,
-    type: 51,
+    type: 49,
     name: "Aryalia",
     description:
-      "",
+    "",
     category: "avatar",
     img: "Aryalia",
     subCategory: 'xoletsa'
+  },
+  {
+    address: "0xBe1bE4B6eAC09203C7c901d6413CeCc65A378BA0",
+    creation: 1487779771,
+    type: 50,
+    name: "Tactician pack",
+    description: "description vide",
+    category: "consumable",
+    img: "Tactician pack"
+  },
+  {
+    address: "0x780ef87E43Be713EA44E1C9EafC22C6baC19e0E5",
+    creation: 1489668598,
+    type: 51,
+    name: "Starter pack",
+    description: "description vide",
+    category: "consumable",
+    img: "Starter pack"
   }
 ];
