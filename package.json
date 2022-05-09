@@ -3,6 +3,9 @@
   "homepage": ".",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16"
+  },
   "dependencies": {
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
