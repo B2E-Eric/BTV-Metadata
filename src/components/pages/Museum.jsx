@@ -14,6 +14,7 @@ export default function Museum() {
         <div className={styles.preview}>
           <img  alt="" src="/frame/epic.png" />
           <img className={styles.image} alt="" src={"/museum/" + type + ".png"} />
+          <i>RNK-00{type ?? "..."}-0{numbering ?? "0"}</i>
         </div>
       </div>
     </div>
