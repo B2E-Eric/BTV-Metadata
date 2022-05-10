@@ -1,13 +1,18 @@
 .frame {
   width: 100vw;
   height: 100vh;
-  background: radial-gradient();
+
   color: grey;
   display: flex;
   justify-content: center;
   align-items: center;
   text-align: center;
 
+  background-color: transparent;
+  background-image: url("/public/misc/stars-alpha.png");
+}
+
+.background {
   --btv-color-blue: #134152;
   --btv-color-black: #011323;
   background: radial-gradient(

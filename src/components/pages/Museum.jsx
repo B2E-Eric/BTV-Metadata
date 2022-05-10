@@ -8,6 +8,7 @@ export default function Museum() {
   const asset = assets.find(({ type: assetType }) => assetType == type);
 
   return (
+    <div className={styles.background}>
     <div className={styles.frame}>
       <div className={styles.card}>
         <div className={styles.preview}>
@@ -15,6 +16,7 @@ export default function Museum() {
           <img className={styles.image} alt="" src={"/museum/" + type + ".png"} />
         </div>
       </div>
+    </div>
     </div>
   );
 }
