@@ -1,29 +1,58 @@
 .frame {
-    width: 100vw;
-    height: 100vh;
-    background-color: black;
-    color: grey;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient();
+  color: grey;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  --btv-color-blue: #134152;
+  --btv-color-black: #011323;
+  background: radial-gradient(
+    at 50% 100%,
+    var(--btv-color-blue) 0%,
+    var(--btv-color-blue) 20%,
+    var(--btv-color-black) 85%
+  );
 }
 
 .card {
-    min-width: 30px;
-    max-width: 300px;
-    margin: auto;
-    padding: 6px;
-    background-color: yellow;
-    transition-duration: 200ms;
+  min-width: 30px;
+  max-width: 300px;
+  margin: auto;
+  padding: 6px;
+  transition-duration: 200ms;
 }
 
 .card:hover {
-    transform: translateY(-4px);
-    transition-duration: 400ms;
+  transform: translateY(-4px);
+  transition-duration: 400ms;
 }
 
-.card > img {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
+.preview {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  aspect-ratio: 1 / 1;
+}
+
+.preview > *:first-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.preview > * {
+  width: 100%;
+  height: 100%;
+}
+
+.preview > .image {
+  --offset: 20%;
+  width: calc(100% - var(--offset));
+  height: calc(100% - var(--offset));
 }

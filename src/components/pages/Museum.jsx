@@ -10,10 +10,13 @@ export default function Museum() {
   return (
     <div className={styles.frame}>
       <div className={styles.card}>
-        {type ?? "invalid"} {numbering && 'n°'}{numbering ?? ""}
-        <br />
-        <img alt="" src={"/museum/" + type + ".png"} />
+        <div className={styles.preview}>
+          <img  alt="" src="/frame/epic.png" />
+          <img className={styles.image} alt="" src={"/museum/" + type + ".png"} />
+        </div>
         <h3>{asset.name}</h3>
+        {type ?? "invalid"} {numbering && "n°"}
+        {numbering ?? ""}
       </div>
     </div>
   );
