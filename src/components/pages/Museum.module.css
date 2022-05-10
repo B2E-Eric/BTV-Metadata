@@ -12,14 +12,32 @@
   background-image: url("/public/misc/stars-alpha.png");
 }
 
+.visgalt {
+  --color-space-1: #230601;
+  --color-space-0: #52181e;
+}
+
+.xoletsa {
+  --color-space-0: #0c504b;
+  --color-space-1: #00181f;
+}
+
+.trexar {
+  --color-space-0:#4d4921;
+  --color-space-1:#141e04;
+}
+
+.vunhuma {
+  --color-space-0: #0e5030;
+  --color-space-1: #001f17;
+}
+
 .background {
-  --btv-color-blue: #134152;
-  --btv-color-black: #011323;
   background: radial-gradient(
     at 50% 100%,
-    var(--btv-color-blue) 0%,
-    var(--btv-color-blue) 20%,
-    var(--btv-color-black) 85%
+    var(--color-space-0) 0%,
+    var(--color-space-0) 20%,
+    var(--color-space-1) 85%
   );
 }
 
@@ -51,11 +69,11 @@
 }
 
 .preview > i {
-    position: absolute;
-    bottom: 2.5%;
-    font-size: 1rem;
-    z-index: 3;
-    color: rgba(0, 0, 0, 0.548);
+  position: absolute;
+  bottom: 2.5%;
+  font-size: 1rem;
+  z-index: 3;
+  color: rgba(0, 0, 0, 0.548);
 }
 
 .preview > img {

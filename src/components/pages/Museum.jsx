@@ -8,16 +8,22 @@ export default function Museum() {
   const asset = assets.find(({ type: assetType }) => assetType == type);
 
   return (
-    <div className={styles.background}>
-    <div className={styles.frame}>
-      <div className={styles.card}>
-        <div className={styles.preview}>
-          <img  alt="" src="/frame/epic.png" />
-          <img className={styles.image} alt="" src={"/museum/" + type + ".png"} />
-          <i>RNK-00{type ?? "..."}-0{numbering ?? "0"}</i>
+      <div className={[styles.background, styles[asset.subCategory]].join(" ")}>
+        <div className={styles.frame}>
+          <div className={styles.card}>
+            <div className={styles.preview}>
+              <img alt="" src={"/frame/" + asset.frame + ".png"} />
+              <img
+                className={styles.image}
+                alt=""
+                src={"/museum/" + type + ".png"}
+              />
+              <i>
+                RNK-00{type ?? "..."}-0{numbering ?? "0"}
+              </i>
+            </div>
+          </div>
         </div>
       </div>
-    </div>
-    </div>
   );
 }
