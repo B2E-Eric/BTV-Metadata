@@ -16,3 +16,25 @@ code {
   --color-space-0: #134152;
   --color-space-1: #011323;
 }
+
+tr img {
+  max-width: 48px;
+  border-radius: 4px;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  text-align: left;
+}
+
+tr:hover .selectable{
+  background-color: grey;
+  border-radius: 4px;
+}
+
+td {
+  padding-inline: 8px;
+}

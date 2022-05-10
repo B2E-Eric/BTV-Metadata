@@ -1,0 +1,13 @@
+.main {
+    height: 100vh;
+    overflow: auto;
+}
+
+.main > * {
+  width: min(100% - 16px, 1000px);
+  margin-inline: auto;
+}
+
+.id {
+    width: 30px;
+}
