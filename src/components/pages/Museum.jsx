@@ -14,9 +14,6 @@ export default function Museum() {
           <img  alt="" src="/frame/epic.png" />
           <img className={styles.image} alt="" src={"/museum/" + type + ".png"} />
         </div>
-        <h3>{asset.name}</h3>
-        {type ?? "invalid"} {numbering && "n°"}
-        {numbering ?? ""}
       </div>
     </div>
   );

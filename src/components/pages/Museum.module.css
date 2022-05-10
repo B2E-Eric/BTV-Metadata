@@ -19,8 +19,7 @@
 }
 
 .card {
-  min-width: 30px;
-  max-width: 300px;
+  max-width: 350px;
   margin: auto;
   padding: 6px;
   transition-duration: 200ms;
