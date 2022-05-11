@@ -47,7 +47,7 @@ export const assets = [
       "This rank was awarded during crowdfunding for every 16,000 Nexium purchased",
     category: "rank",
     img: "Death Star Commander",
-    rarity: "common"
+    rarity: "legend"
   },
   {
     address: "0x1afC72E5d599c159550D056eEf27F59C60F68370",
@@ -132,7 +132,7 @@ export const assets = [
     creation: 1487779769,
     type: 10,
     name: "Aetherlith",
-    description: "description vide",
+    description: "",
     category: "event",
     img: "Aetherlith",
     rarity: "common"
@@ -142,7 +142,7 @@ export const assets = [
     creation: 1489668465,
     type: 11,
     name: "Green Sun",
-    description: "description vide",
+    description: "",
     category: "event",
     img: "Green Sun",
     rarity: "common"
@@ -152,7 +152,7 @@ export const assets = [
     creation: 1515609353,
     type: 12,
     name: "Junkalibur",
-    description: "description vide",
+    description: "",
     category: "skin",
     img: "Junkalibur",
     rarity: "common"
@@ -162,7 +162,7 @@ export const assets = [
     creation: 1515609415,
     type: 13,
     name: "Wall Of Steam",
-    description: "description vide",
+    description: "",
     category: "skin",
     img: "Wall Of Steam",
     rarity: "common"
@@ -172,7 +172,7 @@ export const assets = [
     creation: 1515609467,
     type: 14,
     name: "Molten Core Fusion",
-    description: "description vide",
+    description: "",
     category: "skin",
     img: "Molten Core Fusion",
     rarity: "common"
@@ -247,7 +247,7 @@ export const assets = [
     creation: 1538037252,
     type: 21,
     name: "Ready Ether One - BGS2018",
-    description: "description vide",
+    description: "",
     category: "skin",
     img: "Ready Ether One",
     rarity: "common"
@@ -551,7 +551,7 @@ export const assets = [
     creation: 1487779771,
     type: 50,
     name: "Tactician pack",
-    description: "description vide",
+    description: "",
     category: "consumable",
     img: "Tactician pack",
     rarity: "common"
@@ -561,7 +561,7 @@ export const assets = [
     creation: 1489668598,
     type: 51,
     name: "Starter pack",
-    description: "description vide",
+    description: "",
     category: "consumable",
     img: "Starter pack",
     rarity: "common"
