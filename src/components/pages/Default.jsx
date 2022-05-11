@@ -22,6 +22,7 @@ export default function Default() {
               <th>Image</th>
               <th>Name</th>
               <th>Rarity</th>
+              <th>Category</th>
               <th>Original ERC-20</th>
             </tr>
           </thead>
@@ -30,13 +31,14 @@ export default function Default() {
               const asset = assets.find(({type: t}) => t === idx);
 
               return (
-                <tr key={idx} onClick={() => {navigate(`/museum/${asset.type}`)}}>
+                <tr key={idx}>
                   <td className={styles.id}>{idx}</td>
                   <td>
                     <img alt="" src={"/museum/" + idx + ".png"} />
                   </td>
-                  <td className="selectable">{asset?.name}</td>
+                  <td onClick={() => {navigate(`/museum/${asset.type}`)}} className="selectable">{asset?.name}</td>
                   <td >{asset?.rarity}</td>
+                  <td >{asset?.category}</td>
                   <td >{asset?.address}</td>
                 </tr>
               );

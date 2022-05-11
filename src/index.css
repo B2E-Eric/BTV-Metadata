@@ -33,6 +33,7 @@ th {
 tr:hover .selectable{
   background-color: grey;
   border-radius: 4px;
+  cursor: pointer;
 }
 
 td {

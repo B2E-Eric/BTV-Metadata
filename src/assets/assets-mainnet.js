@@ -184,9 +184,8 @@ export const assets = [
     name: "Augustina Steinbach",
     description:
       "Admiral Augustina Steinbach is renowned throughout House Trexar for her strategic cunning, steely resolve, loyalty to her troops, and her impeccable taste in cigars.",
-    category: "avatar",
+    category: "trexar",
     img: "Augustina Steinbach",
-    subCategory: "trexar",
     rarity: "common"
   },
   {
@@ -196,9 +195,8 @@ export const assets = [
     name: "Ogunu",
     description:
       "Ogunu comes from a diplomatic family of metal and prestige. His fierce conquests are only outshone by his craftsmanship.",
-    category: "avatar",
+    category: "vunhuma",
     img: "Ogunu",
-    subCategory: "vunhuma",
     rarity: "common"
   },
   {
@@ -208,9 +206,8 @@ export const assets = [
     name: "Itztli",
     description:
       "Itztli walks the line between zealot and sadist. He fights with a righteous fury that has earned him due amounts of fear and respect. Nothing brings him more pleasure than conquering his enemies as tribute to his gods.",
-    category: "avatar",
+    category: "xoletsa",
     img: "Itztli",
-    subCategory: "xoletsa",
     rarity: "common"
   },
   {
@@ -220,9 +217,8 @@ export const assets = [
     name: "Geser Khagan",
     description:
       "Geser is a fierce champion for his people. Seen as fearless with a thirst for battle, soldiers like him are the reason for House Visgalt’s reputation as conquerors among the stars.",
-    category: "avatar",
+    category: "visgalt",
     img: "Geser Khagan",
-    subCategory: "visgalt",
     rarity: "common"
   },
   {
@@ -232,9 +228,8 @@ export const assets = [
     name: "Itelsut",
     description:
       "Itelsut enjoys the thrill of battle as much as the musings of philosophers. Raised within a proud and noble house, she received education and military training in equal measure. Don’t let her even-temperedness and quick wit fool you.",
-    category: "avatar",
+    category: "hignos",
     img: "Itelsut",
-    subCategory: "hignos",
     rarity: "common"
   },
   {
@@ -284,9 +279,8 @@ export const assets = [
     name: "Ifuna Sharr",
     description:
       "A spy and saboteur in service of the Trexar barony, Ilverna has a sizable bounty on her head in Visgalt, Vunhuma, and Hignös territories. Reassigned to Trexar operations in the Void, she brings her many years of spycraft to ensuring her house’s dominance in this new frontier.",
-    category: "avatar",
+    category: "trexar",
     img: "Ifuna Sharr",
-    subCategory: "trexar",
     rarity: "common"
   },
   {
@@ -296,9 +290,8 @@ export const assets = [
     name: "Yugahn Zeligg",
     description:
       "With the birth of Archbaron Visgalt’s monstrous sons, self-mutilation became a mark of loyalty among the House’s servants. Zeligg was among the first to volunteer for such “cosmetic” surgery. With his fanatic devotion to his house coupled with his new, death-like visage, he has gained a fearsome reputation on the battlefield.",
-    category: "avatar",
+    category: "visgalt",
     img: "Yugahn Zeligg",
-    subCategory: "visgalt",
     rarity: "common"
   },
   {
@@ -328,9 +321,8 @@ export const assets = [
     name: "Wataida",
     description:
       "Wataida works tirelessly toward balance between her society and its surrounding nature. By designing transportation and habitats that resemble nature and work with the forces of the planet, she hopes to leave lasting impact. The near overflow of ambrosium has allowed her to construct the most efficient and harmonious infrastructure of all the houses.",
-    category: "avatar",
+    category: "vunhuma",
     img: "Wataida",
-    subCategory: "vunhuma",
     rarity: "common"
   },
   {
@@ -340,9 +332,8 @@ export const assets = [
     name: "Setonn",
     description:
       "With oceans surrounding everything, understanding how to exploit this abundant resource fell to the desk of Setonn. Being learned in marine biology and molecular engineering, he put his personal stamp on the surrounding environment. By creating a menagerie of machine/animal hybrids, Setonn ensured that the world itself would work toward the Baron’s wishes.",
-    category: "avatar",
+    category: "hignos",
     img: "Setonn",
-    subCategory: "hignos",
     rarity: "common"
   },
   {
@@ -352,9 +343,8 @@ export const assets = [
     name: "Chuma",
     description:
       "With most of the unmined Ambrosium located in the Void, the study of this mysterious realm fell to seers like Chuma. He used his mastery over the ancient machines to extract secrets from the darkest corners of the Void.",
-    category: "avatar",
+    category: "vunhuma",
     img: "Chuma",
-    subCategory: "vunhuma",
     rarity: "common"
   },
   {
@@ -374,9 +364,8 @@ export const assets = [
     name: "Ispa Nandeth",
     description:
       "Ispa struggles through her existence, ever-devoted to bring hope to the desperate, mend the broken, and shield the tormented. Her pious zeal caught the eye of the Baroness who granted her the power to end the misery of others but did nothing to lessen her personal woe. Ever burdened, she perseveres with her divine undertaking in the hope that after all others are healed she can receive a final relief.",
-    category: "avatar",
+    category: "xoletsa",
     img: "Ispa Nandeth",
-    subCategory: "xoletsa",
     rarity: "common"
   },
   {
@@ -386,9 +375,8 @@ export const assets = [
     name: "Solek Voidwalker",
     description:
       "Solek was the first to earn the title of Voidwalker. Using House Hignös astral projection technology, he can explore the Void with minimal immediate danger. However, the experience results in extreme mental and physical fatigue and degeneration. The solution is constant cybernetic enhancements to the point where many question whether Solek is sentient or just following his programing.",
-    category: "avatar",
+    category: "hignos",
     img: "Solek Voidwalker",
-    subCategory: "hignos",
     rarity: "common"
   },
   {
@@ -398,9 +386,8 @@ export const assets = [
     name: "Rakaaj Vorik",
     description:
       "For a family to gain favor within House Visgalt, it must be willing to purge any members deemed too weak to carry out the Archbaron’s will. For this reason, Rakaaj’s family nearly had him ritually killed as a child, due to a deteriorating muscular condition which required him to have mechanical assistance to walk at an early age. As his family’s only child, though, he was granted a reprieve, so long as he could prove himself worthy to House Visgalt. Rakaaj found his calling as a fighter pilot, and out among the stars he is one of the most feared of House Visgalt’s troops, disability or no.",
-    category: "avatar",
+    category: "visgalt",
     img: "Rakaaj Vorik",
-    subCategory: "visgalt",
     rarity: "common"
   },
   {
@@ -410,9 +397,8 @@ export const assets = [
     name: "Anesu Kutau",
     description:
       "The title of Kutau is bestowed upon the only living person who communicates with the Baron of Vunhuma. For Anesu, this is a lifetime position of power and responsibility. She guides House Vunhuma as much as the Baron and its success and failure also lie with her. When her days are finished, she alone chooses her successor and then joins her predecessors within the consciousness of the Baron.",
-    category: "avatar",
+    category: "vunhuma",
     img: "Anesu Kutau",
-    subCategory: "vunhuma",
     rarity: "common"
   },
   {
@@ -422,9 +408,8 @@ export const assets = [
     name: "Nekhir Surmann",
     description:
       "Nekhir should have died years ago. A highly decorated member of the Marauders, he became infected with an experimental virus crafted by House Hignös, causing his body began to slowly rot from the inside. He had little hope of survival, but was saved by a painful, experimental procedure performed by House Visgalt’s “Mad Doctor,” Elmin Kluvik, himself a Hignös defector. The virus has now created a symbiotic bond with Nekhir, who relishes in his new, horrific appearance.",
-    category: "avatar",
+    category: "visgalt",
     img: "Nekhir Surmann",
-    subCategory: "visgalt",
     rarity: "common"
   },
   {
@@ -434,9 +419,8 @@ export const assets = [
     name: "Nenetl Mago",
     description:
       "Nenetl Mago fashions herself a librarian of all that is worthy to be studied and revered. Her insatiable curiosity and dedication fashioned her into the singular expert on all of House Xoletsa’s various deities, rituals, and magics. She is, however, generous with her knowledge and does not seek to withhold. This has led to the revival of some magics that even those in Xoletsian society consider unnatural.",
-    category: "avatar",
+    category: "xoletsa",
     img: "Nenetl Mago",
-    subCategory: "xoletsa",
     rarity: "common"
   },
   {
@@ -446,9 +430,8 @@ export const assets = [
     name: "T'Vei",
     description:
       "T’Vei was the lead engineer for taking the Wall-K2 ship design and upgrading it to a mothership worthy of House Hignös. It was her idea to improve hull integrity allowing for the ramming of enemy ships. This enhancement permitted Hignös fighters to take down their enemies even if it was their final act.",
-    category: "avatar",
+    category: "hignos",
     img: "T Vei",
-    subCategory: "hignos",
     rarity: "common"
   },
   {
@@ -468,9 +451,8 @@ export const assets = [
     name: "Dalton Brecht",
     description:
       "Dalton has been chief engineer of the Trexar fleets for more than a decade, and he sees the barony’s ships the same way he does his young children - they’re loud, constantly in need of attention, and every last one is precious to him.",
-    category: "avatar",
+    category: "trexar",
     img: "Dalton Brecht",
-    subCategory: "trexar",
     rarity: "common"
   },
   {
@@ -480,9 +462,8 @@ export const assets = [
     name: "Vesha",
     description:
       "Vesha was born with a natural disdain for anyone not within House Hignös. This resentment was useful when he became the head of the Advanced Tactical Warfare Division. His designs are inspired by his feelings toward other houses and so his metallic assassins never meets a target more than once. His victims are treated to a shared final experience demonstrating the efficient killing power of House Hignös.",
-    category: "avatar",
+    category: "hignos",
     img: "Vesha",
-    subCategory: "hignos",
     rarity: "common"
   },
   {
@@ -491,9 +472,8 @@ export const assets = [
     type: 42,
     name: "Maomba The Unflinching",
     description: "",
-    category: "avatar",
+    category: "vunhuma",
     img: "Maomba The Unflinching",
-    subCategory: "vunhuma",
     rarity: "common"
   },
   {
@@ -502,9 +482,8 @@ export const assets = [
     type: 43,
     name: "Paria",
     description: "",
-    category: "avatar",
+    category: "hignos",
     img: "Paria",
-    subCategory: "hignos",
     rarity: "common"
   },
   {
@@ -523,9 +502,8 @@ export const assets = [
     type: 45,
     name: "Ieshan Oltaca",
     description: "",
-    category: "avatar",
+    category: "xoletsa",
     img: "Ieshan Oltaca",
-    subCategory: "xoletsa",
     rarity: "common"
   },
   {
@@ -544,9 +522,8 @@ export const assets = [
     type: 47,
     name: "Mharra Ezen",
     description: "",
-    category: "avatar",
+    category: "visgalt",
     img: "Mharra Ezen",
-    subCategory: "visgalt",
     rarity: "common"
   },
   {
@@ -555,9 +532,8 @@ export const assets = [
     type: 48,
     name: "Dr. Arvid Styrke",
     description: "",
-    category: "avatar",
+    category: "trexar",
     img: "Dr Arvid Styrke",
-    subCategory: "trexar",
     rarity: "common"
   },
   {
@@ -566,9 +542,8 @@ export const assets = [
     type: 49,
     name: "Aryalia",
     description: "",
-    category: "avatar",
+    category: "xoletsa",
     img: "Aryalia",
-    subCategory: "xoletsa",
     rarity: "common"
   },
   {

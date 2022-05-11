@@ -8,7 +8,7 @@ export default function Museum() {
   const asset = assets.find(({ type: assetType }) => assetType == type);
 
   return (
-      <div className={[styles.background, styles[asset.subCategory]].join(" ")}>
+      <div className={[styles.background, styles[asset.category]].join(" ")}>
         <div className={styles.frame}>
           <div className={styles.card}>
             <div className={styles.preview}>
