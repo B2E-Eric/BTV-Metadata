@@ -1,8 +1,12 @@
 import React from "react";
 import styles from "./Default.module.css";
 import { assets } from "../../assets/assets-mainnet";
+import { useNavigate } from "react-router-dom";
 
 export default function Default() {
+  let navigate = useNavigate();
+
+
   return (
     <div className={styles.main}>
       <h1>BTV Museum</h1>
@@ -26,13 +30,13 @@ export default function Default() {
               const asset = assets.find(({type: t}) => t === idx);
 
               return (
-                <tr key={idx}>
+                <tr key={idx} onClick={() => {navigate(`/museum/${asset.type}`)}}>
                   <td className={styles.id}>{idx}</td>
                   <td>
                     <img alt="" src={"/museum/" + idx + ".png"} />
                   </td>
                   <td className="selectable">{asset?.name}</td>
-                  <td >{asset?.frame}</td>
+                  <td >{asset?.rarity}</td>
                   <td >{asset?.address}</td>
                 </tr>
               );

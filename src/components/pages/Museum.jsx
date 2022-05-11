@@ -12,7 +12,7 @@ export default function Museum() {
         <div className={styles.frame}>
           <div className={styles.card}>
             <div className={styles.preview}>
-              <img alt="" src={"/frame/" + asset.frame + ".png"} />
+              <img alt="" src={"/frame/" + asset.rarity + ".png"} />
               <img
                 className={styles.image}
                 alt=""

@@ -8,7 +8,7 @@ export const assets = [
       "Forged in the depths of the planet Glavos, Excalibur is the jewel of the Trexar fleet. Its steep lines and colossal firepower are the pride of the Archbaron, who has entrusted his confidant with the mission of leading it into battle.",
     category: "skin",
     img: "Golden Excalibur",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x899c6dEe157592794ac79D4767D47aC7A0563d9D",
@@ -21,7 +21,7 @@ export const assets = [
       "This rank was awarded during crowdfunding for every 1,000 Nexium purchased",
     category: "rank",
     img: "Ship Pilot",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x097F659E579b4A5176fbcD4A6AD331A240BE34af",
@@ -34,7 +34,7 @@ export const assets = [
       "This rank was awarded during crowdfunding for every 4,000 Nexium purchased",
     category: "rank",
     img: "Fleet Captain",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x01B8b44bC79266FeBb2d359731176a54c9Db93F1",
@@ -47,7 +47,7 @@ export const assets = [
       "This rank was awarded during crowdfunding for every 16,000 Nexium purchased",
     category: "rank",
     img: "Death Star Commander",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x1afC72E5d599c159550D056eEf27F59C60F68370",
@@ -60,7 +60,7 @@ export const assets = [
       "This rank was awarded during crowdfunding for every 50,000 Nexium purchased",
     category: "rank",
     img: "Army General",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x560d4C1A582F479C37E59F88F95b66B2DC14c95E",
@@ -73,7 +73,7 @@ export const assets = [
       "This rank was awarded during crowdfunding for every 100,000 Nexium purchased",
     category: "rank",
     img: "Moon Administrator",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x4eFBa44206005b2fd00041642Bdc956703696E7f",
@@ -86,7 +86,7 @@ export const assets = [
       "This rank was awarded during crowdfunding for every 400,000 Nexium purchased",
     category: "rank",
     img: "Planetary Regent",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xF8D18cCBb70971d292139eb407c047ad93682949",
@@ -99,7 +99,7 @@ export const assets = [
       "This rank was awarded during crowdfunding for every 650,000 Nexium purchased",
     category: "rank",
     img: "Star Baron",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x5Ab278585A14027bd79452f0b1693B99A5b0cc80",
@@ -112,7 +112,7 @@ export const assets = [
       "This rank was awarded during crowdfunding for every 1,000,000 Nexium purchased",
     category: "rank",
     img: "Constellation King",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xd08143f7e3E0a39Ac1573ac6E6e8c9b49A8396A6",
@@ -125,7 +125,7 @@ export const assets = [
       "This rank was awarded during crowdfunding for every 1,700,000 Nexium purchased",
     category: "rank",
     img: "Galactic Emperor",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x42eBfE454e9f1912cd85471656743e051b129497",
@@ -135,7 +135,7 @@ export const assets = [
     description: "description vide",
     category: "event",
     img: "Aetherlith",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x0fE759fdcAe4bAa50b09AC367B65e7283F42eb78",
@@ -145,7 +145,7 @@ export const assets = [
     description: "description vide",
     category: "event",
     img: "Green Sun",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x237E8a85D45f6Af8aAb8cA26fB801Ff4C578A503",
@@ -155,7 +155,7 @@ export const assets = [
     description: "description vide",
     category: "skin",
     img: "Junkalibur",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xEEf23786c06b29F99A4Fd4A60A7e7e8F41214877",
@@ -165,7 +165,7 @@ export const assets = [
     description: "description vide",
     category: "skin",
     img: "Wall Of Steam",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x3055a809d574F85acD1fe3c693f01423eF94212b",
@@ -175,7 +175,7 @@ export const assets = [
     description: "description vide",
     category: "skin",
     img: "Molten Core Fusion",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xa57414A5B6C2f98e825acc3944cC1FEfcD85699F",
@@ -187,7 +187,7 @@ export const assets = [
     category: "avatar",
     img: "Augustina Steinbach",
     subCategory: "trexar",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x12D90E6c0A30590eca4B05abe16f16e604cFD12b",
@@ -199,7 +199,7 @@ export const assets = [
     category: "avatar",
     img: "Ogunu",
     subCategory: "vunhuma",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xae2907585e27bAE76b916f59293deAd353fd2581",
@@ -211,7 +211,7 @@ export const assets = [
     category: "avatar",
     img: "Itztli",
     subCategory: "xoletsa",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x81D51f3f548f4f323Ea6B51341192dC2d9683b18",
@@ -223,7 +223,7 @@ export const assets = [
     category: "avatar",
     img: "Geser Khagan",
     subCategory: "visgalt",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x8f06B5D8b9cce6F398C95E55935E6f00EE61F4EE",
@@ -235,7 +235,7 @@ export const assets = [
     category: "avatar",
     img: "Itelsut",
     subCategory: "hignos",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x9E102397C90a212644313A9121c22c4EFF61A3d4",
@@ -245,7 +245,7 @@ export const assets = [
     description: "",
     category: "avatar",
     img: "Enamored Advisor",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x3d6fe205a85808fE6a736F45aF54425a44399009",
@@ -255,7 +255,7 @@ export const assets = [
     description: "description vide",
     category: "skin",
     img: "Ready Ether One",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x386c923D4ba086042BbAE407aC163c5a0ceE8a28",
@@ -265,7 +265,7 @@ export const assets = [
     description: "",
     category: "skin",
     img: "Hellspawn",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xC30900B96E16A35840Ed52166b015C705F8746F8",
@@ -275,7 +275,7 @@ export const assets = [
     description: "",
     category: "skin",
     img: "Emerald Fusion",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x1604450b3fB8B87Eb7C22fc8e7288Fc4b7a019Bf",
@@ -287,7 +287,7 @@ export const assets = [
     category: "avatar",
     img: "Ifuna Sharr",
     subCategory: "trexar",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x8fE781aD4707178D600890dAA0d4DE1c9831DCd7",
@@ -299,7 +299,7 @@ export const assets = [
     category: "avatar",
     img: "Yugahn Zeligg",
     subCategory: "visgalt",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xFD7fC9Bc7B600002a7eF8D511ab4B935e9De36A1",
@@ -309,7 +309,7 @@ export const assets = [
     description: "",
     category: "skin",
     img: "Bloody-K2",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xC7f0e87b3603d401Fd206D3DF84B4A686986395a",
@@ -319,7 +319,7 @@ export const assets = [
     description: "",
     category: "skin",
     img: "Cyanide Karkass",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x07EFdb396158687BED7805702C71BDC2Dca15758",
@@ -331,7 +331,7 @@ export const assets = [
     category: "avatar",
     img: "Wataida",
     subCategory: "vunhuma",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x980F27180A39C10933BaA3Ee90D02508E9E1Bcd5",
@@ -343,7 +343,7 @@ export const assets = [
     category: "avatar",
     img: "Setonn",
     subCategory: "hignos",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x6cC8B96299DA4105AA5172D4124e21545056BC7b",
@@ -355,7 +355,7 @@ export const assets = [
     category: "avatar",
     img: "Chuma",
     subCategory: "vunhuma",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x513C6a41D745B432eDa445C2b40361b188EC583A",
@@ -365,7 +365,7 @@ export const assets = [
     description: "",
     category: "skin",
     img: "Just Blue",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x2C0C0307a05aFAD047cE68a99AadEE5290711508",
@@ -377,7 +377,7 @@ export const assets = [
     category: "avatar",
     img: "Ispa Nandeth",
     subCategory: "xoletsa",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xE5C039F6cA2227F8462FC8c1dd22e6383a855109",
@@ -389,7 +389,7 @@ export const assets = [
     category: "avatar",
     img: "Solek Voidwalker",
     subCategory: "hignos",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xEAc179Db44Ecf1eE59888cE3BC0Db7C14885Dbad",
@@ -401,7 +401,7 @@ export const assets = [
     category: "avatar",
     img: "Rakaaj Vorik",
     subCategory: "visgalt",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xe01ECaADd031A333E4600B9C64108421ef37d4b7",
@@ -413,7 +413,7 @@ export const assets = [
     category: "avatar",
     img: "Anesu Kutau",
     subCategory: "vunhuma",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xA4E1B51bE128bD660306f30dD703AeD432e82e17",
@@ -425,7 +425,7 @@ export const assets = [
     category: "avatar",
     img: "Nekhir Surmann",
     subCategory: "visgalt",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x880bA6C9B81A001BA1b06Cd1EF53a2684CE0b689",
@@ -437,7 +437,7 @@ export const assets = [
     category: "avatar",
     img: "Nenetl Mago",
     subCategory: "xoletsa",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x17A8c03ac953B0bf0454976cB4b37c11eFb90a1a",
@@ -449,7 +449,7 @@ export const assets = [
     category: "avatar",
     img: "T Vei",
     subCategory: "hignos",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x9BbC6b0FCe516692c2ED0C7b71d7acBEF8ca0b18",
@@ -459,7 +459,7 @@ export const assets = [
     description: "",
     category: "skin",
     img: "Bioplasmik Zel Hactl",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xFb5a51AE417E5753aEc5452Ef760915973F97C37",
@@ -471,7 +471,7 @@ export const assets = [
     category: "avatar",
     img: "Dalton Brecht",
     subCategory: "trexar",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x6D83D5514438520e4A50B2FE096eb7992011d0A2",
@@ -483,7 +483,7 @@ export const assets = [
     category: "avatar",
     img: "Vesha",
     subCategory: "hignos",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x19a71fE3b212aec360d9460f8EeD8385575aEa3a",
@@ -494,7 +494,7 @@ export const assets = [
     category: "avatar",
     img: "Maomba The Unflinching",
     subCategory: "vunhuma",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x3CbD83131e7d1d673a452C8257B0e832dD71F93C",
@@ -505,7 +505,7 @@ export const assets = [
     category: "avatar",
     img: "Paria",
     subCategory: "hignos",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xF1D00E485e4A890Dba8C129f5364e2d2D1B07A1a",
@@ -515,7 +515,7 @@ export const assets = [
     description: "",
     category: "skin",
     img: "Fungus Lord",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xA14725891BFeF57122D1454Bae6AC9A4Dfc3258C",
@@ -526,7 +526,7 @@ export const assets = [
     category: "avatar",
     img: "Ieshan Oltaca",
     subCategory: "xoletsa",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x8A2a645d8F1Bc69dA92291b8d128e391a1Aa65e7",
@@ -536,7 +536,7 @@ export const assets = [
     description: "",
     category: "skin",
     img: "Iron Widow",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x513B1d1FDcf9e72a69E2721A03688173B0b22121",
@@ -547,7 +547,7 @@ export const assets = [
     category: "avatar",
     img: "Mharra Ezen",
     subCategory: "visgalt",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x5ff96cDC1BaEA97744ebD9F24114927280102D4b",
@@ -558,7 +558,7 @@ export const assets = [
     category: "avatar",
     img: "Dr Arvid Styrke",
     subCategory: "trexar",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xcEb25Adf5B954153295efCA18931DAf3947DD472",
@@ -569,7 +569,7 @@ export const assets = [
     category: "avatar",
     img: "Aryalia",
     subCategory: "xoletsa",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0xBe1bE4B6eAC09203C7c901d6413CeCc65A378BA0",
@@ -579,7 +579,7 @@ export const assets = [
     description: "description vide",
     category: "consumable",
     img: "Tactician pack",
-    frame: "common"
+    rarity: "common"
   },
   {
     address: "0x780ef87E43Be713EA44E1C9EafC22C6baC19e0E5",
@@ -589,6 +589,6 @@ export const assets = [
     description: "description vide",
     category: "consumable",
     img: "Starter pack",
-    frame: "common"
+    rarity: "common"
   }
 ];
