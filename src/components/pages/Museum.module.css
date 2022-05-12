@@ -10,6 +10,7 @@
 
   background-color: transparent;
   background-image: url("/public/misc/stars-alpha.png");
+  overflow: hidden;
 }
 
 .visgalt {
@@ -70,6 +71,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  object-fit: contain;
   aspect-ratio: 1 / 1;
 }
 
