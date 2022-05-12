@@ -49,8 +49,20 @@
 }
 
 .card:hover {
-  transform: translateY(-4px);
+  /* transform: translateY(-4px); */
+  max-width: 100%;
   transition-duration: 400ms;
+  margin: 0px;
+}
+
+.card:hover .preview > .image {
+  --offset: 0px;
+  transition-duration: 400ms;
+}
+
+.card:hover .preview > *:first-child {
+  opacity: 0%;
+  transition-duration: 100ms;
 }
 
 .preview {
@@ -66,6 +78,7 @@
   top: 0;
   left: 0;
   z-index: 1;
+  opacity: 100%;
 }
 
 .preview > i {
