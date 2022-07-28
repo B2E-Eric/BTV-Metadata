@@ -878,7 +878,6 @@ const assets = [
     subCategory: "hignos",
     rarity: "common"
   }
-
 ];
 
 module.exports = {

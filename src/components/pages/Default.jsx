@@ -27,7 +27,7 @@ export default function Default() {
             </tr>
           </thead>
           <tbody>
-            {[...Array(49)].map((_, idx) => {
+            {[...Array(assets.length)].map((_, idx) => {
               const asset = assets.find(({type: t}) => t === idx);
 
               return (
